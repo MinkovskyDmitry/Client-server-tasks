@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="237164613978069"
+    token="6956999512332305712"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="826" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="62" />
+    <task
+        name="verifier"
+        duration="16" />
+
+    <artifact
+        location="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="234817908172832"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="237164613978069"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

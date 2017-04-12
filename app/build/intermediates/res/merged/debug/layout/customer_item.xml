@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:elevation="4dp"
+        android:layout_gravity="center"
+        card_view:cardCornerRadius="4dp"
+        android:layout_margin="5dp"
+        android:background="@android:color/background_light"
+        android:layout_height="wrap_content">
+
+        <android.support.design.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:textSize="23sp"
+                    android:textColor="#0a0909"
+                    android:id="@+id/firstName"
+                    android:textStyle="bold"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:textSize="23sp"
+                    android:textColor="#0a0909"
+                    android:textStyle="bold"
+                    android:id="@+id/lastName"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:textSize="23sp"
+                    android:textColor="#0a0909"
+                    android:id="@+id/patronymic"
+                    android:textStyle="bold"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:textSize="18sp"
+                    android:textColor="#0a0909"
+                    android:id="@+id/email"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:textSize="18sp"
+                    android:textColor="#0a0909"
+                    android:id="@+id/createdAt"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:textSize="18sp"
+                    android:textColor="#0a0909"
+                    android:id="@+id/birthday"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:textSize="18sp"
+                    android:textColor="#0a0909"
+                    android:id="@+id/site"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+
+
+
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/buttonFabEdit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_action_name"
+                android:layout_gravity="bottom|right"
+                android:layout_margin="16dp"
+                app:layout_anchorGravity="bottom|right|end"
+                app:backgroundTint="?attr/actionModeSplitBackground"
+                app:fabSize="mini"/>
+
+
+
+        </android.support.design.widget.CoordinatorLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout >

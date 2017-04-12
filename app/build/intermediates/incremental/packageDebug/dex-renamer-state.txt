@@ -1,0 +1,7 @@
+#Wed Apr 12 12:33:25 EET 2017
+base.0=C\:\\Users\\UserComp\\AndroidStudioProjects\\Scrooge\\firsttask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e22517277d97939ef245cd9837564e10a853376b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\UserComp\\AndroidStudioProjects\\Scrooge\\firsttask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_956ff130a2bcef5b71dfc48234a541e982ba1e8f\\classes.dex
+base.1=C\:\\Users\\UserComp\\AndroidStudioProjects\\Scrooge\\firsttask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_956ff130a2bcef5b71dfc48234a541e982ba1e8f
+file.0=C\:\\Users\\UserComp\\AndroidStudioProjects\\Scrooge\\firsttask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e22517277d97939ef245cd9837564e10a853376b\\classes.dex

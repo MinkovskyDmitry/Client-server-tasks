@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_178cb54bc80c9dc575053b7677d0849788fcaee2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_059568ffe6244c7176d249ea6d65a4ebbb4a3912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_5602de102f43d39141fbd35772a6bdb22b4b9920\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_f1584fb19c7737f9d7a791795040aee401260a0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_946cf2e883ba7eb82ee532bb3be1cd7d72e293d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_c8b069ca134f1de562fce6adce3f7748ed33d57a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_f1ae5d96ad7c9d7eb74bcc4c821703d05d512c75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_a0f35a17c8e4dd1a8c28163c90ee019c9fb688b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_7ba261b936a9b1c8a6cb0e65a46b070b38e3d2b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a314939e6bcc674a61621fdb19b149666a94de28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0b77f1625981ca82844b2341e0ed1e4798de7df0">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_956ff130a2bcef5b71dfc48234a541e982ba1e8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_24d7cf77a798fb7f2feb832e0f4809e2e1fee3ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4d277e523a7e061ff3c968f917924c74e46da1ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_fdec2cc9ef11979932fc2f284e5d4785d20fdb9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_82abc5b8a0a74daa077cdff753d72e562a72506f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_d836aa25e29c8568a452f9e4f2741f07ced38beb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_ff2e728b3637980cd984c8f70b0abcdb064c0c4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b51e68596dbf3379b4e2bd852ede0d662b8ed0b1">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e22517277d97939ef245cd9837564e10a853376b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_857c4be62f7824894be850620d5ca96baf6eb6bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_bf6bbd65f325334fba0beaa525da69dd97b1dd2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_fedff2966fb03741e0e916004ba022b3078f388b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_373b6f89a46cfe2f27e1379e8793db0ec3f9845d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\firsttask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_fa44fbd87e14076a1742caf7f978dd9dd4b1422d\classes.dex" />
+    </item>
+
+</items>
